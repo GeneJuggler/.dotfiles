@@ -1,0 +1,14 @@
+The purpose of this repo is to backup my .vimrc and other dotfiles. If I 
+clone this into a new computer, I basically need to move already present
+dotfiles and then link them.
+
+
+$ cd
+$ mv .vim .dotfiles/vim
+$ mv .vimrc .dotfiles/vimrc
+$ mv .screenrc .dotfiles/screenrc
+$ mv .gitconfig .dotfiles/gitconfig
+$ ln -s .dotfiles/vim .vim
+$ ln -s .dotfiles/vimrc .vimrc
+$ ln -s .dotfiles/screenrc .screenrc
+$ ln -s .dotfiles/gitconfig .gitconfig
