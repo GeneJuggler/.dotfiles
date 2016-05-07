@@ -307,3 +307,33 @@ cd .dotfiles/
 ls
 ls -a
 vim readme
+cd .dotfiles/vim
+ls
+cd bundle/
+ls
+cd desert256.vim/
+ls
+cd colors/
+ls
+vim desert256.vim 
+ls
+cd ~/
+ls
+ls -a
+trash .vim
+ls
+ls -a
+cd .gitconfig
+cd .dotfiles/
+ls
+cd vim
+ls
+cd ..
+mv vim ~/.vim
+ls
+cd ..
+ls
+ls -a
+vim .vimrc
+vim .vimrc
+ls -a
