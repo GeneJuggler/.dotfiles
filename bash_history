@@ -337,3 +337,80 @@ ls -a
 vim .vimrc
 vim .vimrc
 ls -a
+cd .dotfiles/
+ls
+vim vimrc 
+vim vimrc 
+vim
+vim test.txt
+vim vimrc 
+brew update
+brew upgrade
+brew doctor
+brew link git
+rm /usr/local/bin/git
+brew list
+brew
+brew uninstall git
+brew uninstall --force git
+brew install git
+brew doctor
+brew link git
+brew link --overwrite git
+brew doctor
+brew upgrade
+brew update
+brew doctor
+ls
+brew update
+brew upgrade
+brew list
+brew install python
+brew linkapps
+brew doctor
+python
+python3 --version
+python --version
+brew doctor
+brew list
+ls -a
+cd .cups
+ls
+ls
+cd ..
+ls
+open .vimrc
+vim .vimrc
+open vim
+ls
+ls
+open .dotfiles/
+cd .dotfiles/
+ls
+vim vimrc
+ls
+vim vimrc
+vim vimrc 
+vim vimrc 
+vim
+ls
+ls -a
+cd .config/
+ls
+cd ..
+open .dotfiles/
+cd .dotfiles/
+vim vimrc 
+vim
+vim vimrc 
+vim
+j
+cd ~/
+ls
+cd .dotfiles/
+ls
+vim bash_
+vim bash_profile 
+ls
+cd ~/.dotfiles/
+vim bash_profile 
